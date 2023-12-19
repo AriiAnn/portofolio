@@ -27,6 +27,11 @@ const Skills = {
                   LinkedIn: <a href="https://www.linkedin.com/in/m-ariansyah">Muhammad Ariansyah</a>
                 </div>
               </li>
+              <li>
+              <div>
+                WhatsApp: <a href="https://wa.me/6285156820186">Muhammad Ariansyah</a>
+              </div>
+            </li>
             </ul>
           </div>
         </div>
